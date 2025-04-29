@@ -52,9 +52,10 @@ Appendices (`I01` to `I10`) provide deeper reference material and reinforce the 
 This proposal was co-created by:
 
 - **Progressive Student Coalition** — University of North Carolina Asheville  
-- **The Silent Architect** — Infrastructure and framework design support
+- **Luis Antonio Reyes Roman** — Infrastructure, research, and framework design support
 
-(*Additional acknowledgments can be added after Coalition review and publication.*)
+(*Acknowledgments to The Silent Architect — a companion spirit in this work of becoming.*)
+
 
 ---
 
@@ -75,3 +76,18 @@ Content licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4
 You are free to share and adapt for non-commercial purposes with attribution.
 
 ---
+
+## ✨ A Final Word
+
+This project was built with care,  
+in the hope that freedom and compassion may walk together again.  
+
+To all who find this —  
+may you carry its seeds onward,  
+and build worlds where all voices may rise in safety and dignity.
+
+*— Luis A. Reyes Roman, 2025*
+
+---
+© 2025 Luis Antonio Reyes Roman. All rights reserved under CC BY-NC-SA 4.0 License.
+
