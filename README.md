@@ -11,6 +11,11 @@ last_updated: "2025-04-28"
 **Building an Ethical, Transparent, and Caring Public Sphere at UNC Asheville**  
 **Academic Year 2025–2026 Proposal Package**
 
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![Built with Care](https://img.shields.io/badge/Built%20with-Care-ff69b4)
+![Author: Luis Antonio Reyes Roman](https://img.shields.io/badge/Author-Luis%20Antonio%20Reyes%20Roman-blueviolet)
+
 ---
 
 ## Welcome
